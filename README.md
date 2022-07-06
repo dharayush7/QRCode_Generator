@@ -37,25 +37,25 @@ And then,
 
 ## Screenshots
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/main/QRCode_Generator/image1.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image1.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/main/QRCode_Generator/image2.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image2.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/main/QRCode_Generator/image3.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image3.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/main/QRCode_Generator/image4.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image4.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/main/QRCode_Generator/image5.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image5.png?raw=true)
 
 
 
 
 ## 🔗 Links
 
-[![github](https://github.com/dharayush7/pyimage/blob/main/Icons/github.png?raw=true)](https://github.com/dharayush7)
-[![website](https://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)](https://www.linkedin.com/)
+[![github](https://github.com/dharayush7/pyimage/blob/image/Icons/github.png?raw=true)](https://github.com/dharayush7)
+[![website](https://github.com/dharayush7/pyimage/blob/image/Icons/website.png?raw=true)](https://www.linkedin.com/)
 
  
   
-![Logo](https://github.com/dharayush7/pyimage/blob/main/Icons/logo.png?raw=truehttps://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)
+![Logo](https://github.com/dharayush7/pyimage/blob/image/Icons/logo.png?raw=truehttps://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)
 
