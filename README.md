@@ -25,7 +25,7 @@ At frist clone thouse file or download a zip. Extract this zip file.
 And run those command. 
 
 ```bash
-  cd /downloads/QRCode_Generator-main
+  cd /downloads/QRCode_Generator-master
 ```
 And then, 
 
