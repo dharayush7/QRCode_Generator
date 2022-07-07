@@ -58,6 +58,7 @@ And then,
 
 [![github](https://github.com/dharayush7/pyimage/blob/image/Icons/github.png?raw=true)](https://github.com/dharayush7)
 [![website](https://github.com/dharayush7/pyimage/blob/image/Icons/website.png?raw=true)](https://www.linkedin.com/)
+[![gmail](https://github.com/dharayush7/pyimage/blob/image/Icons/gmail.png?raw=true)](mailto:ayushdh2@gmail.com)
 
  
   
