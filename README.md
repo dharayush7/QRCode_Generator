@@ -1,7 +1,7 @@
 
 # QRCode_Generator
 
-Only run in the terminal. For graphix Swich branch to graphic branch.
+Only run in the terminal. For gui Swich branch to gui branch.
 
 
 ## Description :
