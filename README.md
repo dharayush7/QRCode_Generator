@@ -1,7 +1,7 @@
 
-# QRCode_Generator-graphic
+# QRCode_Generator-gui
 
-It is graphix version.
+It is gui version.
 ## Description :
 
 It is a QR Code Generator. Run the file in cmd (windows) or teminal (Apple or Linux).  Then, enter a massage or url. Select size. There are 3 size options [Small, Medium (Recomonded), High]. After, select border size. There are 3 border size options [Small, Medium (Recomonded), High]. Next, select QRCode color. There are 5 color options [Black, Red, Blue, Yellow, Green]. At last, Give a name of QRCode and click to "GENERET". Filnally your QRCode save as "name_qrcode.png" in this directory. Every thing is display in status column.
