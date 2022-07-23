@@ -13,7 +13,8 @@ NONE!
 
 Download the zip. Then, extract the zip. In side the 'QR_Generetor' folder there have a 'run.exe' 
 file. Just double click and run the programme.
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator-graphic/image1.png?raw=true)
+
+## Screenshots
 
 ![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator-graphic/image2.png?raw=true)
 
