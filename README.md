@@ -13,11 +13,14 @@ NONE!
 
 Download the zip. Then, extract the zip. In side the 'QR_Generetor' folder there have a 'run.exe' 
 file. Just double click and run the programme.
-## Screenshots
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator-graphic/image1.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/%20Paragraph_to_Handwriting_Convertor/image1.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator-graphic/image2.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/%20Paragraph_to_Handwriting_Convertor/GitHub.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator-graphic/image3.png?raw=true)
+
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator-graphic/image4.png?raw=true)
+
 
 
 
