@@ -1,51 +1,26 @@
 
-# QRCode_Generator
+# QRCode_Generator-EXE
 
-Only run in the terminal. For gui Swich branch to gui branch.
-
-
+It is EXE version.
 ## Description :
 
-It is a QR Code Generator. Run the file in cmd (windows) or teminal (Apple or Linux).  Then, enter a massage or url. Select size. There are 3 size options [Small, Medium (Recomonded), High]. After, select border size. There are 3 border size options [Small, Medium (Recomonded), High]. Next, select QRCode color. There are 5 color options [Black, Red, Blue, Yellow, Green]. At last, Give a name of QRCode. Filnally your QRCode save as "name_qrcode.png" in this directory.
-
+It is a QR Code Generator for windows. At frist, run the file. Then, enter a massage or url. Select size. There are 3 size options [Small, Medium (Recomonded), High]. After, select border size. There are 3 border size options [Small, Medium (Recomonded), High]. Next, select QRCode color. There are 5 color options [Black, Red, Blue, Yellow, Green]. At last, Give a name of QRCode and click to "GENERET". Filnally your QRCode save as "name_qrcode.png" in this directory. Every thing is display in status column.
 
 ##  Requiredment :
 
-- import qrcode
+NONE!
+##  How to run this file :
 
-To install this module run this command in terminal :
-
-```bash
-  pip install qrcode
-```
-
-## How to run this file :
-
-At frist clone thouse file or download a zip. Extract this zip file.
-And run those command. 
-
-```bash
-  cd /downloads/QRCode_Generator-master
-```
-And then, 
-
-```bash
-  python3 QRCode_Generator.py
-```
-
-
-
+Download the zip. Then, extract the zip. In side the 'QR_Generetor' folder there have a 'run.exe' 
+file. Just double click and run the programme.
 ## Screenshots
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image1.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/%20Paragraph_to_Handwriting_Convertor/image1.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image2.png?raw=true)
+![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/%20Paragraph_to_Handwriting_Convertor/GitHub.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image3.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image4.png?raw=true)
 
-![App Screenshot](https://github.com/dharayush7/pyimage/blob/image/QRCode_Generator/image5.png?raw=true)
 
 
 
@@ -53,10 +28,11 @@ And then,
 ## 🔗 Links
 
 [![github](https://github.com/dharayush7/pyimage/blob/image/Icons/github.png?raw=true)](https://github.com/dharayush7)
-[![website](https://github.com/dharayush7/pyimage/blob/image/Icons/website.png?raw=true)](https://www.linkedin.com/)
+[![Website](https://github.com/dharayush7/pyimage/blob/image/Icons/website.png?raw=true)](#)
 [![gmail](https://github.com/dharayush7/pyimage/blob/image/Icons/gmail.png?raw=true)](mailto:ayushdh2@gmail.com)
+
 
  
   
-![Logo](https://github.com/dharayush7/pyimage/blob/image/Icons/logo.png?raw=truehttps://github.com/dharayush7/pyimage/blob/main/Icons/website.png?raw=true)
+![Logo](https://github.com/dharayush7/pyimage/blob/image/Icons/logo.png?raw=true)
 
