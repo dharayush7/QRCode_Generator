@@ -32,7 +32,7 @@ file. Just double click and run the programme.
 ## 🔗 Links
 
 [![github](https://github.com/dharayush7/pyimage/blob/image/Icons/github.png?raw=true)](https://github.com/dharayush7)
-[![Website](https://github.com/dharayush7/pyimage/blob/image/Icons/website.png?raw=true)](#)
+[![Website](https://github.com/dharayush7/pyimage/blob/image/Icons/website.png?raw=true)](https://www.ayushprojects.gq/)
 [![gmail](https://github.com/dharayush7/pyimage/blob/image/Icons/gmail.png?raw=true)](mailto:ayushdh2@gmail.com)
 
 
